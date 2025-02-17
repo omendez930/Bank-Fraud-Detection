@@ -14,13 +14,13 @@ Number of Features: 19 Columns
 
 Target Variable: is_fraud (1 - Fraudulent, 0 - Non-Fraudulent)
 
-** Feature Description **
+**Feature Description**
 
 The original dataset came from ["Original Dataset"](https://www.kaggle.com/datasets/marusagar/bank-transaction-fraud-detection). Although this dataset contained sensitive information that is not relevant to this model. In an attempt to protect this information, I dropped the corresponding features, and uploaded an updated version of the dataset.
 
 # EDA
 
-** Modeling Steps **
+**Modeling Steps**
 
 1. Data Preprocessing
 
