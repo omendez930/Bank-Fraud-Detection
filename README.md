@@ -51,7 +51,7 @@ Project Links
 
 Model Notebook: ["Jupyter Notebook"](https://github.com/omendez930/Bank-Fraud-Detection/blob/main/notebook.ipynb)
 
-Tableau VIsualizations: ['Bank Fraud Detection Visualizations']([https://public.tableau.com/app/profile/orangel.mendez/viz/Bank_Fraud_Detection/Sheet4?publish=yes](https://public.tableau.com/app/profile/orangel.mendez/viz/Bank_Fraud_Detection/Dashboard1?publish=yes))
+Tableau VIsualizations: ['Bank Fraud Detection Visualizations'](https://public.tableau.com/app/profile/orangel.mendez/viz/Bank_Fraud_Detection/Dashboard1?publish=yes)
 
 Presentation/Report: [Link to any slides or reports]
 
