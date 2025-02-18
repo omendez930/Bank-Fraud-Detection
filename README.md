@@ -14,6 +14,8 @@ Number of Features: 19 Columns
 
 Target Variable: is_fraud (1 - Fraudulent, 0 - Non-Fraudulent)
 
+**NOTE:** The data is pulled directly from kaggle and ran in a google colab environment. If you plan to run the data locally, download the dataset from the link above.
+
 **Feature Description**
 
 The original dataset came from ["Original Dataset"](https://www.kaggle.com/datasets/marusagar/bank-transaction-fraud-detection). Although this dataset contained sensitive information that is not relevant to this model. In an attempt to protect this information, I dropped the corresponding features, and uploaded an updated version of the dataset.
