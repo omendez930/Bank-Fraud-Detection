@@ -37,7 +37,7 @@ Tuning hyperparameters using GridSearchCV or Bayesian Optimization to find the b
 
 5. Model Evaluation
 
-Using metrics Accuracy, Precision, Recall, F1-score. Including ROC-AUC as well, I generate confusion matrices and classification reports.
+Using metrics Accuracy, Precision, Recall, F1-score. I generate confusion matrices and classification reports.
 
 ## Results & Findings
 
