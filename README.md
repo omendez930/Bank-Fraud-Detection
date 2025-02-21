@@ -49,6 +49,8 @@ Using metrics Accuracy, Precision, Recall, F1-score. I generate confusion matric
 
 ## Key insights from the data analysis
 
+Independent Research: ["Fraud.com"](https://www.fraud.com/post/the-actual-cost-of-fraud) this site gives a more in-depth look into fraud and the effects it has on a yearly basis from a financial standpoint.
+
 * Recall score is 68% as of now. There is a trade-off with the precision metric of 5%. This will lead to misclassification of transactions that are legitimate but flagged as fraudulent.
 
 
@@ -70,7 +72,7 @@ Deploy model using Flask or FastAPI
 
 Integrate real-time fraud detection in banking systems
 
-Independent Research: ["Fraud.com"](https://www.fraud.com/post/the-actual-cost-of-fraud) this site gives a more in-depth look into fraud and the effects it has on a yearly basis from a financial standpoint.
+
 
 ## **Author**
 
