@@ -51,7 +51,6 @@ Using metrics Accuracy, Precision, Recall, F1-score. Including ROC-AUC as well, 
 
 * Recall score is 68% as of now. There is a trade-off with the precision metric of 5%. This will lead to misclassification of transactions that are legitimate but flagged as fraudulent.
 
-Feature importance ranking
 
 ## Project Links
 
