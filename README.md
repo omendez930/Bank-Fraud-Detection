@@ -70,6 +70,8 @@ Deploy model using Flask or FastAPI
 
 Integrate real-time fraud detection in banking systems
 
+Independent Research: ["Fraud.com"](https://www.fraud.com/post/the-actual-cost-of-fraud)
+
 ## **Author**
 
 Orangel Mendez
