@@ -58,7 +58,8 @@ Tableau VIsualizations: ['Bank Fraud Detection Visualizations'](https://public.t
 
 Presentation/Report: [Link to any slides or reports](https://github.com/omendez930/Bank-Fraud-Detection/blob/main/Bank%20Fraud%20Detection.pdf)
 
-Future Work
+Future Work:
+
 Incorporate Pyspark, and Neural Networks.
 
 Improve model performance with ensemble methods
