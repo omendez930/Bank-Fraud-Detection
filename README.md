@@ -39,18 +39,21 @@ Tuning hyperparameters using GridSearchCV or Bayesian Optimization to find the b
 
 Using metrics Accuracy, Precision, Recall, F1-score. Including ROC-AUC as well, I generate confusion matrices and classification reports.
 
-Results & Findings
+## Results & Findings
 
 ![Model metrics](https://github.com/omendez930/Bank-Fraud-Detection/blob/main/Photos/Picture1.png)
-Best-performing model: ![Confusion Matrix](https://github.com/omendez930/Bank-Fraud-Detection/blob/main/Photos/output.png)
 
-**Key insights from the data analysis**
+## Best-performing model: 
+
+![Confusion Matrix](https://github.com/omendez930/Bank-Fraud-Detection/blob/main/Photos/output.png)
+
+## Key insights from the data analysis
 
 * Recall score is 68% as of now. There is a trade-off with the precision metric of 5%. This will lead to misclassification of transactions that are legitimate but flagged as fraudulent.
 
 Feature importance ranking
 
-**Project Links**
+## Project Links
 
 Model Notebook: ["Jupyter Notebook"](https://github.com/omendez930/Bank-Fraud-Detection/blob/main/notebook.ipynb)
 
@@ -58,7 +61,7 @@ Tableau VIsualizations: ['Bank Fraud Detection Visualizations'](https://public.t
 
 Presentation/Report: [Link to any slides or reports](https://github.com/omendez930/Bank-Fraud-Detection/blob/main/Bank%20Fraud%20Detection.pdf)
 
-**Future Work**
+## Future Work
 
 Incorporate Pyspark, and Neural Networks.
 
